@@ -2,7 +2,7 @@
 
 Scheme, guile, lisp notebook
 
-<iframe width="210" height="157" src="https://www.youtube.com/embed/YEzQV75LDL0" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/YEzQV75LDL0
 
 ##Chapters
 
@@ -12,6 +12,8 @@ Scheme, guile, lisp notebook
 
 * http://www.gnu.org/software/guile/manual/guile.pdf
 * http://www.r6rs.org/final/r6rs.pdf
+* http://www.cs.berkeley.edu/~bh/ss-toc2.html
+* http://www.scheme.com/tspl4/
 
 ##Contribute
 
